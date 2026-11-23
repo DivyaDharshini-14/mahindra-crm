@@ -1,0 +1,2772 @@
+[
+  {
+    "emp_code": "1111",
+    "mile_id": "13PV9762",
+    "employee_name": "SURESH NARAYANASAMY",
+    "email": "13PV9762@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "no",
+    "password": null,
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": null,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "Personal",
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV",
+      "BEV"
+    ],
+    "reporting_to_names": []
+  },
+  {
+    "emp_code": "1112",
+    "mile_id": "13MS9749",
+    "employee_name": "SUGUMAR ANANDAN",
+    "email": "13MS9749@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Digital Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "All Segment"
+    ],
+    "sub_segment_names": [
+      "All Segment"
+    ],
+    "reporting_to_names": [
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1113",
+    "mile_id": "13MS1085",
+    "employee_name": "SWATHY",
+    "email": "13MS1085@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Tele Caller",
+    "role_name": "tele-caller",
+    "role_id": 2,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "All Segment"
+    ],
+    "sub_segment_names": [
+      "All Segment"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1114",
+    "mile_id": "CAITEL001",
+    "employee_name": "POORNI",
+    "email": "CAITEL001@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Tele Caller",
+    "role_name": "tele-caller",
+    "role_id": 2,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "All Segment"
+    ],
+    "sub_segment_names": [
+      "All Segment"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1115",
+    "mile_id": "CAITEL002",
+    "employee_name": "SHANMATHI",
+    "email": "CAITEL002@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Tele Caller",
+    "role_name": "tele-caller",
+    "role_id": 2,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "All Segment"
+    ],
+    "sub_segment_names": [
+      "All Segment"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1116",
+    "mile_id": "13SY6474",
+    "employee_name": "MADUMITHA",
+    "email": "13SY6474@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Tele Caller",
+    "role_name": "tele-caller",
+    "role_id": 2,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "All Segment"
+    ],
+    "sub_segment_names": [
+      "All Segment"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1117",
+    "mile_id": "CAITEL003",
+    "employee_name": "DHIVYA",
+    "email": "CAITEL003@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Tele Caller",
+    "role_name": "tele-caller",
+    "role_id": 2,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "All Segment"
+    ],
+    "sub_segment_names": [
+      "All Segment"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1039",
+    "mile_id": "13EK2236",
+    "employee_name": "ASHWANTH RAMACHANDRAN",
+    "email": "13EK2236@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1654",
+    "mile_id": "13NT4365",
+    "employee_name": "NIRMAL GURU CHINRAJ",
+    "email": "13NT4365@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1655",
+    "mile_id": "13NT4368",
+    "employee_name": "PRITHIVIRAJ PRABHAKARAN",
+    "email": "13NT4368@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1636",
+    "mile_id": "13NT0520",
+    "employee_name": "RAHUL RAMESH",
+    "email": "13NT0520@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1318",
+    "mile_id": "13JP3820",
+    "employee_name": "RAJESH SUNDHARAM",
+    "email": "13JP3820@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1768",
+    "mile_id": "13OU4630",
+    "employee_name": "SRIDHAR JAYARAMAN",
+    "email": "13OU4630@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1325",
+    "mile_id": "13GM2667",
+    "employee_name": "SARAVANAKUMAR SELVAM",
+    "email": "13GM2667@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1835",
+    "mile_id": "13QW3636",
+    "employee_name": "DHANUSH RAMESH",
+    "email": "13QW3636@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1779",
+    "mile_id": "13JP6438",
+    "employee_name": "MOHANKUMAR SAKTHIVEL T",
+    "email": "13JP6438@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASHWANTH RAMACHANDRAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1205",
+    "mile_id": "13KQ8965",
+    "employee_name": "SATHISHKUMAR S SUBRAMANIYAN",
+    "email": "13KQ8965@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1041",
+    "mile_id": "13EK4908",
+    "employee_name": "CHANDRASEKARAN MUTHAIYAN",
+    "email": "13EK4908@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1484",
+    "mile_id": "13AG4209",
+    "employee_name": "DINESHKUMAR KALICHAMY",
+    "email": "13AG4209@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1324",
+    "mile_id": "13EK3262",
+    "employee_name": "EASWARARAJ MOHAN DOSS",
+    "email": "13EK3262@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1208",
+    "mile_id": "13AE9385",
+    "employee_name": "RAJKUMAR ARUMUGAM",
+    "email": "13AE9385@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1034",
+    "mile_id": "13EK1149",
+    "employee_name": "SARATHKUMAR B BALASUBRAMANIAM N",
+    "email": "13EK1149@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1764",
+    "mile_id": "13PV6345",
+    "employee_name": "RAAJESH SIVA SUBRAMANIAM",
+    "email": "13PV6345@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1918",
+    "mile_id": "13RX7074",
+    "employee_name": "SATHISHKUMAR SADHASIVAM",
+    "email": "13RX7074@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1725",
+    "mile_id": "13OU4846",
+    "employee_name": "VISHAL RAM PRAKASH",
+    "email": "13OU4846@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SATHISHKUMAR S SUBRAMANIYAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1855",
+    "mile_id": "13GM9722",
+    "employee_name": "HEMACHANDRAN MURUKAVARMA",
+    "email": "13GM9722@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Team Lead",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1207",
+    "mile_id": "13AE9719",
+    "employee_name": "PRAKASH GOVINDARAJ",
+    "email": "13AE9719@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1723",
+    "mile_id": "13OU1098",
+    "employee_name": "ANAND KUMAR G GURUNATHAN",
+    "email": "13OU1098@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1394",
+    "mile_id": "13AE9357",
+    "employee_name": "JUDE PRADEEP MARTIN DAVID",
+    "email": "13AE9357@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1889",
+    "mile_id": "13NT4370",
+    "employee_name": "SANTHOSH DHARMAN",
+    "email": "13NT4370@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1885",
+    "mile_id": "13QW7438",
+    "employee_name": "HARI HARASH SRIVEL",
+    "email": "13QW7438@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1642",
+    "mile_id": "13NT2061",
+    "employee_name": "PRADEEP KRISHNAN KUTTY",
+    "email": "13NT2061@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1860",
+    "mile_id": "13QW7935",
+    "employee_name": "VIJAYARAGHAVAN MAYILSAMY",
+    "email": "13QW7935@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1118",
+    "mile_id": "13SY6951",
+    "employee_name": "SOWNESH GANESHAN",
+    "email": "13SY6951@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HEMACHANDRAN MURUKAVARMA",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1322",
+    "mile_id": "13KQ8964",
+    "employee_name": "HARIHARAN KRISHNAMOORTHY",
+    "email": "13KQ8964@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1428",
+    "mile_id": "13KQ2988",
+    "employee_name": "DEEPAK RAAG HAVEL PRASAD",
+    "email": "13KQ2988@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1756",
+    "mile_id": "13LR9291",
+    "employee_name": "NANDHAKUMAR SUBRAMANIAM",
+    "email": "13LR9291@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1429",
+    "mile_id": "13KQ2985",
+    "employee_name": "NANDHAKUMAR MURUGAN",
+    "email": "13KQ2985@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1427",
+    "mile_id": "13KQ2983",
+    "employee_name": "RAGUVARAN SEKARAN",
+    "email": "13KQ2983@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1323",
+    "mile_id": "13AE9189",
+    "employee_name": "RAKESH SANANGAPANI",
+    "email": "13AE9189@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1336",
+    "mile_id": "13JP6669",
+    "employee_name": "MANIKANDAN KALIRAJ",
+    "email": "13JP6669@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1596",
+    "mile_id": "13MS4506",
+    "employee_name": "VINOTHKUMAR SAKTHIVEL",
+    "email": "13MS4506@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1335",
+    "mile_id": "13JP6792",
+    "employee_name": "VISHNU PRASAD SASIDHARAN",
+    "email": "13JP6792@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore CUBE",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "HARIHARAN KRISHNAMOORTHY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1942",
+    "mile_id": "13RX8679",
+    "employee_name": "PONSANKARAR PERIYASAMY",
+    "email": "13RX8679@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1837",
+    "mile_id": "13RX2031",
+    "employee_name": "ARUNKUMAR SATHIYA MOORTHY",
+    "email": "13RX2031@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "PONSANKARAR PERIYASAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1935",
+    "mile_id": "13RX6792",
+    "employee_name": "KALAIKUMAR AMMASAIYAPPAN",
+    "email": "13RX6792@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "PONSANKARAR PERIYASAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1334",
+    "mile_id": "13CI7406",
+    "employee_name": "DHAYANANDHAN PUNIYAKODI",
+    "email": "13CI7406@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "PONSANKARAR PERIYASAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20911",
+    "mile_id": "13SY6148",
+    "employee_name": "SANJAY SEMALAIYAPPAN",
+    "email": "13SY6148@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "PONSANKARAR PERIYASAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1102",
+    "mile_id": "13IO0334",
+    "employee_name": "SAKTHISELVAM SENNIAPPAN",
+    "email": "13IO0334@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Pollachi",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1254",
+    "mile_id": "13BH3615",
+    "employee_name": "BABU RAJAN RAMASAMY",
+    "email": "13BH3615@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Pollachi",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SAKTHISELVAM SENNIAPPAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1084",
+    "mile_id": "13GM9893",
+    "employee_name": "VENKATESH PRABHU SHANMUGAVEL",
+    "email": "13GM9893@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Pollachi",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SAKTHISELVAM SENNIAPPAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1402",
+    "mile_id": "13JP9068",
+    "employee_name": "HARIPRASATH VELUMANI",
+    "email": "13JP9068@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Pollachi",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SAKTHISELVAM SENNIAPPAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1622",
+    "mile_id": "13MS9746",
+    "employee_name": "VASANTHAKUMAR PARTHASARATHI",
+    "email": "13MS9746@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Pollachi",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SAKTHISELVAM SENNIAPPAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1512",
+    "mile_id": "13LR2586",
+    "employee_name": "VINOTH KUMAR KANAGARAJ",
+    "email": "13LR2586@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Pollachi",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SAKTHISELVAM SENNIAPPAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1840",
+    "mile_id": "13QW4035",
+    "employee_name": "GOKULNATH SUNDHARRAJ",
+    "email": "13QW4035@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Pollachi",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SAKTHISELVAM SENNIAPPAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1275",
+    "mile_id": "13QW4036",
+    "employee_name": "ASWIN PUTTUSAMY",
+    "email": "13QW4036@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Ooty",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1333",
+    "mile_id": "13QW4037",
+    "employee_name": "VIKRAM MAHALINGAM",
+    "email": "13QW4037@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Ooty",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASWIN PUTTUSAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1731",
+    "mile_id": "13QW4038",
+    "employee_name": "RAJESH DURAI",
+    "email": "13QW4038@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Ooty",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASWIN PUTTUSAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1758",
+    "mile_id": "13QW4039",
+    "employee_name": "ASHOK CHANDRARAJ",
+    "email": "13QW4039@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Ooty",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASWIN PUTTUSAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1365",
+    "mile_id": "13QW4040",
+    "employee_name": "KISHORE R",
+    "email": "13QW4040@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Ooty",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASWIN PUTTUSAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1834",
+    "mile_id": "13QW4041",
+    "employee_name": "VELLO VENKATEESH KAMBATEESHWARAN",
+    "email": "13QW4041@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Ooty",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASWIN PUTTUSAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1945",
+    "mile_id": "13QW4042",
+    "employee_name": "PRAKASH RAMACHANDRAN",
+    "email": "13QW4042@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Ooty",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "ASWIN PUTTUSAMY",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20791",
+    "mile_id": "13RX8418",
+    "employee_name": "LAKSHMI NARASHIMHAN S",
+    "email": "13RX8418@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1344",
+    "mile_id": "13JP6618",
+    "employee_name": "HARIHARAN KANDASAMY",
+    "email": "13JP6618@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1749",
+    "mile_id": "13PV3294",
+    "employee_name": "LAXMANAPRADEEP KUMAR",
+    "email": "13PV3294@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1765",
+    "mile_id": "13IO2867",
+    "employee_name": "ANANDHAN V",
+    "email": "13IO2867@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1750",
+    "mile_id": "13PV3292",
+    "employee_name": "SATHISH KUMAR MADHESWARAN",
+    "email": "13PV3292@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1043",
+    "mile_id": "13CI5120",
+    "employee_name": "VINAYAKAN ANBU",
+    "email": "13CI5120@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1793",
+    "mile_id": "13GM2567",
+    "employee_name": "DINESHWAR MURALIDHARAN",
+    "email": "13GM2567@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1887",
+    "mile_id": "13RX1349",
+    "employee_name": "MANIKANDAN MATHIYAZHAGAN",
+    "email": "13RX1349@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20876",
+    "mile_id": "13SY4434",
+    "employee_name": "SELVAM SEKAR",
+    "email": "13SY4434@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20872",
+    "mile_id": "13SY4444",
+    "employee_name": "VINOTHKUMAR MANIKANDAN",
+    "email": "13SY4444@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20887",
+    "mile_id": "13SY5441",
+    "employee_name": "RANJITHKUMAR VEDICHI",
+    "email": "13SY5441@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "LAKSHMI NARASHIMHAN S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1808",
+    "mile_id": "13LR9427",
+    "employee_name": "SANDEEP S",
+    "email": "13LR9427@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "1362",
+    "mile_id": "13JP0904",
+    "employee_name": "BALASELVAKUMAR GOVINDASAMY",
+    "email": "13JP0904@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1790",
+    "mile_id": "13PV6957",
+    "employee_name": "PALANIVEL IYYAMPERUMAL",
+    "email": "13PV6957@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1905",
+    "mile_id": "13GM8782",
+    "employee_name": "RANGARAJ N NAGARAJ R",
+    "email": "13GM8782@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1250",
+    "mile_id": "13AG8965",
+    "employee_name": "GOPALSAMY CHANDRASEKARAN",
+    "email": "13AG8965@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1925",
+    "mile_id": "13RX7764",
+    "employee_name": "SARANESH KUMAR KANDASAMY",
+    "email": "13RX7764@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1946",
+    "mile_id": "13RX9273",
+    "employee_name": "RISHIWANTH SARAVANAN",
+    "email": "13RX9273@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1753",
+    "mile_id": "13PV3542",
+    "employee_name": "SATHISHKUMAR NARAYANASAMY",
+    "email": "13PV3542@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1786",
+    "mile_id": "13PV6959",
+    "employee_name": "KISHOREKUMAR KALEESWARAN",
+    "email": "13PV6959@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20890",
+    "mile_id": "13SY5892",
+    "employee_name": "SHAKTHIVEL RAVICHANDRAN",
+    "email": "13SY5892@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Personal"
+    ],
+    "sub_segment_names": [
+      "ICE",
+      "EV"
+    ],
+    "reporting_to_names": [
+      "SANDEEP S",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1950",
+    "mile_id": "13RX9309",
+    "employee_name": "PANDIKUMAR MURUGAN",
+    "email": "13RX9309@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Assistant General Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "All location",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "SUGUMAR ANANDAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "9002",
+    "mile_id": "13PV9612",
+    "employee_name": "SARATH CHANDAR VENUGOPAL",
+    "email": "13PV9612@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "PANDIKUMAR MURUGAN",
+      "SURESH NARAYANASAMY"
+    ]
+  },
+  {
+    "emp_code": "9007",
+    "mile_id": "13PV9940",
+    "employee_name": "VIGNESH ARUMUGAM",
+    "email": "13PV9940@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "SARATH CHANDAR VENUGOPAL",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1797",
+    "mile_id": "13PV9712",
+    "employee_name": "VIJAI BHUSHAN VENKEDUSAMY",
+    "email": "13PV9712@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "SARATH CHANDAR VENUGOPAL",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20845",
+    "mile_id": "13SY2980",
+    "employee_name": "PRAVEENKUMAR THANUSHKODI",
+    "email": "13SY2980@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "SARATH CHANDAR VENUGOPAL",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20919",
+    "mile_id": "13SY6563",
+    "employee_name": "DHIVAKAR GOPALAKRISHNAN",
+    "email": "13SY6563@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "SARATH CHANDAR VENUGOPAL",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1119",
+    "mile_id": "13RX3719",
+    "employee_name": "ARTHI G",
+    "email": "13RX3719@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "SARATH CHANDAR VENUGOPAL",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "9005",
+    "mile_id": "13PV8758",
+    "employee_name": "HEMALATHA VARADHARAJ",
+    "email": "13PV8758@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "PANDIKUMAR MURUGAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1922",
+    "mile_id": "13RX7760",
+    "employee_name": "RANJITH CHANDRASEKAR",
+    "email": "13RX7760@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "HEMALATHA VARADHARAJ",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "9003",
+    "mile_id": "13PV7556",
+    "employee_name": "MARIMUTHU MURUGESAN",
+    "email": "13PV7556@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "HEMALATHA VARADHARAJ",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20912",
+    "mile_id": "13SY6147",
+    "employee_name": "VISHNUHASAN ANANTHAN",
+    "email": "13SY6147@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Coimbatore HO",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "HEMALATHA VARADHARAJ",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20863",
+    "mile_id": "13SY4026",
+    "employee_name": "DINESH BABU ANNADURAI",
+    "email": "13SY4026@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Sales Manager",
+    "role_name": "manager",
+    "role_id": 3,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "PANDIKUMAR MURUGAN",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20877",
+    "mile_id": "13SY4914",
+    "employee_name": "ARUNPRASANTH SENTHILKUMAR",
+    "email": "13SY4914@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "DINESH BABU ANNADURAI",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20896",
+    "mile_id": "13SY5442",
+    "employee_name": "SATHIYA SEELAN RAJA",
+    "email": "13SY5442@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "DINESH BABU ANNADURAI",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "20788",
+    "mile_id": "13RX8340",
+    "employee_name": "ASWIN SELVARAJ",
+    "email": "13RX8340@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "DINESH BABU ANNADURAI",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1792",
+    "mile_id": "13QW0829",
+    "employee_name": "DAYANANTH RAJAGOPAL",
+    "email": "13QW0829@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "DINESH BABU ANNADURAI",
+      "SUGUMAR ANANDAN"
+    ]
+  },
+  {
+    "emp_code": "1836",
+    "mile_id": "13QW3706",
+    "employee_name": "RAJESH JAGANATHAN",
+    "email": "13QW3706@CAIMAHINDRA.COM",
+    "mobile_number": "9787706610",
+    "date_of_joining": "2026-04-01",
+    "employee_status": "active",
+    "is_user": "yes",
+    "password": "password",
+    "designation_name": "Senior Sales Consultant",
+    "role_name": "sales-consultant",
+    "role_id": 4,
+    "company_name": "CAI AUTO INDUSTRIES PVT LTD",
+    "location_name": "Erode_3S",
+    "department_name": "Sales",
+    "segment_names": [
+      "Meal"
+    ],
+    "sub_segment_names": [
+      "BEV"
+    ],
+    "reporting_to_names": [
+      "DINESH BABU ANNADURAI",
+      "SUGUMAR ANANDAN"
+    ]
+  }
+]
